@@ -1,0 +1,15 @@
+body
+{
+border-left: 300px;
+}
+.heading{
+    width: 100%;
+    text-align: left;
+}
+.heading button{
+    float: right;
+    border: 1px solid white;
+}
+#start,#status{
+    font-size:22px ;
+}
